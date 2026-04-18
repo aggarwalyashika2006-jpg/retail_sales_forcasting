@@ -3,7 +3,8 @@
 > 🚀 End-to-End Retail Analytics Project using Machine Learning, Time-Series Forecasting, and Business Intelligence Dashboard
 
 ---
-
+🌐 Live Project (Deployed App):
+👉 https://retailsalesforcasting-gxdfgzelrjnpc5ivvlewdg.streamlit.app/
 ## 📌 Overview
 
 This project is a **complete retail analytics system** designed to simulate how modern retail companies forecast demand, optimize inventory, and make data-driven decisions.
