@@ -1,0 +1,12 @@
+Project Summary:
+
+- Model Used: Random Forest
+- MAE: (write your value)
+- Inventory Optimization Applied:
+  - Safety Stock
+  - Reorder Point
+  - EOQ
+
+Business Impact:
+- Reduced stockouts
+- Optimized inventory
